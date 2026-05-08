@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://hoco-api-web.pages.dev/">
+    <img src="https://img.shields.io/badge/Web-Online-20D38F?style=for-the-badge&labelColor=06110D" alt="Web Online" />
+  </a>
   <a href="https://api.hocoapi-colombia.workers.dev">
     <img src="https://img.shields.io/badge/API-Online-20D38F?style=for-the-badge&labelColor=06110D" alt="API Online" />
   </a>
@@ -53,6 +56,7 @@ La API esta pensada para proyectos que necesitan trabajar con fechas laborales r
 
 | Recurso | URL |
 | --- | --- |
+| Web | https://hoco-api-web.pages.dev/ |
 | API | https://api.hocoapi-colombia.workers.dev |
 | Swagger | https://api.hocoapi-colombia.workers.dev/api/docs |
 | OpenAPI JSON | https://api.hocoapi-colombia.workers.dev/api/openapi.json |
