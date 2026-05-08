@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/License-MIT-FFFFFF?style=for-the-badge&labelColor=06110D" alt="MIT License" />
 </p>
 
-> Logo cargado desde `./src/img/HOCOAPI.png`.
 
 ---
 
